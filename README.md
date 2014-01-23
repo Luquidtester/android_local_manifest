@@ -1,4 +1,1 @@
-android_local_manifest
-======================
-
-local manifest for cm11 GT-S7500
+Repositories that are needed to build CyanogenMod 11 for Galaxy Ace Plus
